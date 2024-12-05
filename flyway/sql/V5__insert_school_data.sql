@@ -1,0 +1,1 @@
+INSERT INTO school (name,address) VALUES ('ABC School','Chennai');
